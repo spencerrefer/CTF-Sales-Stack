@@ -109,7 +109,7 @@ Customers: 95 (6 E-Rate accounts dropped Oct 2) | Data center partners: 10 | Car
 | Data center partner | Element Critical | 58825066103 | [Element_Critical_Entry_Plan_2026-10-01.pdf](Element_Critical_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: personal email to Cameron Wynne (Chief Data Center Officer) |
 | Data center partner | Equinix | 57980580716 | [Equinix_Entry_Plan_2026-10-01.pdf](Equinix_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: launch the draft; personal note to Andrew Charen |
 | Data center partner | Expedient | 58860273979 | [Expedient_Entry_Plan_2026-10-01.pdf](Expedient_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Andres Jara; add him to HubSpot |
-| Data center partner | H5 Data Centers | 57989342805 | [H5_Data_Centers_Entry_Plan_2026-10-01.pdf](H5_Data_Centers_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: personal email to AJ Steller with the KMZ and a design date |
+| Data center partner | H5 Data Centers | 57989342805 | [H5_Data_Centers_Entry_Plan_2026-10-01.pdf](H5_Data_Centers_Entry_Plan_2026-10-01.pdf) | AJ replied Oct 1; all H5 outreach paused |
 | Data center partner | Netrality | 57990115372 | [Netrality_Entry_Plan_2026-10-01.pdf](Netrality_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Dan Jeschke (SVP Sales) to restart |
 | Data center partner | TierPoint | 58863681047 | [TierPoint_Entry_Plan_2026-10-01.pdf](TierPoint_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Cynthia O'Connell (Sr Director, Channel Sales, Lakes and Midwest) |
 | Carrier | Altice Portugal | 58895453470, 58853158527 | [Altice_Portugal_Entry_Plan_2026-10-01.pdf](Altice_Portugal_Entry_Plan_2026-10-01.pdf) | Wed Oct 7: email Joao Coelho (Wholesale Account Manager Coordinator) |
