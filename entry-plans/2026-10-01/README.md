@@ -3,15 +3,15 @@
 One PDF per account assigned to Spencer Refer in HubSpot (169 records, 162 plans; 7 duplicate records share a plan and are flagged for merging).
 Built from HubSpot activity, Lemlist campaigns, ZoomInfo signals (Dec 2025 - Oct 2026) and Apollo contact data.
 
-Customers: 95 | Data center partners: 10 | Carriers: 3 | Partners: 54
+Customers: 95 (6 E-Rate accounts dropped Oct 2) | Data center partners: 10 | Carriers: 3 | Partners: 54
 
 | Type | Account | HubSpot ID(s) | Plan | Next step |
 |---|---|---|---|---|
 | Customer | 3Red Partners | 57996270429 | [3Red_Partners_Entry_Plan_2026-10-01.pdf](3Red_Partners_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: email George Dragoi (Head of Technology) |
 | Customer | ABN AMRO Clearing Chicago | 57984889941 | [ABN_AMRO_Clearing_Chicago_Entry_Plan_2026-10-01.pdf](ABN_AMRO_Clearing_Chicago_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: LinkedIn connect to Brian Soprych (Global Network Architect) |
-| Customer | Acero Schools | 57997665373 | [Acero_Schools_Entry_Plan_2026-10-01.pdf](Acero_Schools_Entry_Plan_2026-10-01.pdf) | Fri Oct 9: find Acero's Director of Technology |
+| Customer | Acero Schools | 57997665373 | [Acero_Schools_Entry_Plan_2026-10-01.pdf](Acero_Schools_Entry_Plan_2026-10-01.pdf) | **Dropped Oct 2: Crosstown no longer pursues E-Rate customers** |
 | Customer | AER Worldwide | 57999651721 | [AER_Worldwide_Entry_Plan_2026-10-01.pdf](AER_Worldwide_Entry_Plan_2026-10-01.pdf) | Fri Oct 9: one partner-style email to Mark Regalado (IT Director) |
-| Customer | American Samoa Department of Education | 57980584368 | [American_Samoa_DOE_Entry_Plan_2026-10-01.pdf](American_Samoa_DOE_Entry_Plan_2026-10-01.pdf) | Fri Oct 2: mark Disqualified in HubSpot |
+| Customer | American Samoa Department of Education | 57980584368 | [American_Samoa_DOE_Entry_Plan_2026-10-01.pdf](American_Samoa_DOE_Entry_Plan_2026-10-01.pdf) | **Dropped Oct 2: Crosstown no longer pursues E-Rate customers** |
 | Customer | Ansatz Capital | 57992618572 | [Ansatz_Capital_Entry_Plan_2026-10-01.pdf](Ansatz_Capital_Entry_Plan_2026-10-01.pdf) | Thu Oct 8: email Hyun Kim (Partner) |
 | Customer | Apex Fintech Solutions | 58002437943 | [Apex_Fintech_Solutions_Entry_Plan_2026-10-01.pdf](Apex_Fintech_Solutions_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Philip Howell (Director, Platform Infrastructure) |
 | Customer | Apple | 57994480150 | [Apple_Entry_Plan_2026-10-01.pdf](Apple_Entry_Plan_2026-10-01.pdf) | Fri Oct 2: cut the list to the US backbone and data center team before step 2 |
@@ -24,7 +24,7 @@ Customers: 95 | Data center partners: 10 | Carriers: 3 | Partners: 54
 | Customer | CacheFly | 58000885140 | [CacheFly_Entry_Plan_2026-10-01.pdf](CacheFly_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: personal follow-up to Michael Sparks on the February email |
 | Customer | Cato Networks | 57987679080 | [Cato_Networks_Entry_Plan_2026-10-01.pdf](Cato_Networks_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Tom Leibovich (Director of Infrastructure) |
 | Customer | Chan Zuckerberg Biohub Chicago | 57997508148 | [CZ_Biohub_Chicago_Entry_Plan_2026-10-01.pdf](CZ_Biohub_Chicago_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: email David Stewart (Senior Network Engineer) |
-| Customer | Chicago International Charter School (CICS) | 58004261194 | [CICS_Entry_Plan_2026-10-01.pdf](CICS_Entry_Plan_2026-10-01.pdf) | Wed Oct 7: email Danny Cancel (Director of Facilities) for the technology contact |
+| Customer | Chicago International Charter School (CICS) | 58004261194 | [CICS_Entry_Plan_2026-10-01.pdf](CICS_Entry_Plan_2026-10-01.pdf) | **Dropped Oct 2: Crosstown no longer pursues E-Rate customers** |
 | Customer | Cirrascale | 58000429335 | [Cirrascale_Entry_Plan_2026-10-01.pdf](Cirrascale_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Brent Strange (Director of Engineering, Infrastructure) |
 | Customer | Clearwater Analytics (CWAN) | 57981236799 | [Clearwater_Analytics_Entry_Plan_2026-10-01.pdf](Clearwater_Analytics_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: email Sung Chang (Manager/Lead, Network Engineering) |
 | Customer | Coinbase (Chicago) | 57989033268 | [Coinbase_Entry_Plan_2026-10-01.pdf](Coinbase_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: email Brian Foster (VP, Infrastructure) |
@@ -49,10 +49,10 @@ Customers: 95 | Data center partners: 10 | Carriers: 3 | Partners: 54
 | Customer | Illinois Quantum & Microelectronics Park (IQMP) | 57989809304 | [IQMP_Entry_Plan_2026-10-01.pdf](IQMP_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: LinkedIn note to Philip Makotyn (Deputy CTO) |
 | Customer | Imperva (Thales) | 58005344348 | [Imperva_Entry_Plan_2026-10-01.pdf](Imperva_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Yat Lee (Network Architect) |
 | Customer | Infleqtion | 57987993513 | [Infleqtion_Entry_Plan_2026-10-01.pdf](Infleqtion_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: email Kyle Hogan (IT Infrastructure Manager) |
-| Customer | KIPP Chicago | 58009878170 | [KIPP_Chicago_Entry_Plan_2026-10-01.pdf](KIPP_Chicago_Entry_Plan_2026-10-01.pdf) | Fri Oct 9: find KIPP Chicago's technology lead |
+| Customer | KIPP Chicago | 58009878170 | [KIPP_Chicago_Entry_Plan_2026-10-01.pdf](KIPP_Chicago_Entry_Plan_2026-10-01.pdf) | **Dropped Oct 2: Crosstown no longer pursues E-Rate customers** |
 | Customer | Latitude.sh (Megaport) | 57995652668 | [Latitude_sh_Entry_Plan_2026-10-01.pdf](Latitude_sh_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Brian Koenig (Head of Procurement and Capacity Planning) |
 | Customer | LEAD Tech | 58000612099 | [LEAD_Tech_Entry_Plan_2026-10-01.pdf](LEAD_Tech_Entry_Plan_2026-10-01.pdf) | Fri Oct 9: check where Benjamin Crouch actually works |
-| Customer | LEARN Charter School Network | 57980432011 | [LEARN_Charter_Entry_Plan_2026-10-01.pdf](LEARN_Charter_Entry_Plan_2026-10-01.pdf) | Fri Oct 9: find LEARN's technology lead |
+| Customer | LEARN Charter School Network | 57980432011 | [LEARN_Charter_Entry_Plan_2026-10-01.pdf](LEARN_Charter_Entry_Plan_2026-10-01.pdf) | **Dropped Oct 2: Crosstown no longer pursues E-Rate customers** |
 | Customer | Leaseweb | 58005963831 | [Leaseweb_Entry_Plan_2026-10-01.pdf](Leaseweb_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email James Higgins (Network Procurement Manager) |
 | Customer | Lightning AI | 57996735768 | [Lightning_AI_Entry_Plan_2026-10-01.pdf](Lightning_AI_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Gina Barrios (Director, Infrastructure Delivery) |
 | Customer | Liquid Capital Group | 57996425530 | [Liquid_Capital_Group_Entry_Plan_2026-10-01.pdf](Liquid_Capital_Group_Entry_Plan_2026-10-01.pdf) | Fri Oct 9: confirm a Chicago desk and find the tech lead |
@@ -69,7 +69,7 @@ Customers: 95 | Data center partners: 10 | Carriers: 3 | Partners: 54
 | Customer | NCSA (UIUC) | 57999652180 | [NCSA_Entry_Plan_2026-10-01.pdf](NCSA_Entry_Plan_2026-10-01.pdf) | Wed Oct 7: email Mike Smeltzer (Director of Networking, UIUC) |
 | Customer | Nico Trading | 57997974553 | [Nico_Trading_Entry_Plan_2026-10-01.pdf](Nico_Trading_Entry_Plan_2026-10-01.pdf) | Fri Oct 9: LinkedIn search for Nico technology staff |
 | Customer | NinjaTrader | 57994167993 | [NinjaTrader_Entry_Plan_2026-10-01.pdf](NinjaTrader_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Dan Larson (Director of Security and Infrastructure) |
-| Customer | Noble Schools | 58003488616 | [Noble_Schools_Entry_Plan_2026-10-01.pdf](Noble_Schools_Entry_Plan_2026-10-01.pdf) | Tue Oct 6: email Robert Amey (Senior Director, Network Operations) |
+| Customer | Noble Schools | 58003488616 | [Noble_Schools_Entry_Plan_2026-10-01.pdf](Noble_Schools_Entry_Plan_2026-10-01.pdf) | **Dropped Oct 2: Crosstown no longer pursues E-Rate customers** |
 | Customer | NUSO | 57993239324 | [NUSO_Entry_Plan_2026-10-01.pdf](NUSO_Entry_Plan_2026-10-01.pdf) | This week: Tony stops by NUSO's INCOMPAS exhibit; then email Mirian Goutchi (Lead Network Engineer) |
 | Customer | OCC (The Options Clearing Corporation) | 57996425529 | [OCC_Entry_Plan_2026-10-01.pdf](OCC_Entry_Plan_2026-10-01.pdf) | Fri Oct 2: check Dunne reply; Mon Oct 5: email Charles Marsh |
 | Customer | Palo Alto Networks | 57995500574 | [Palo_Alto_Networks_Entry_Plan_2026-10-01.pdf](Palo_Alto_Networks_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Matt Riddle (Sr Director, IT Cloud and Infrastructure) |
