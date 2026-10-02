@@ -62,7 +62,7 @@ Customers: 95 (6 E-Rate accounts dropped Oct 2) | Data center partners: 10 | Car
 | Customer | Mayer Brown | 58002437945 | [Mayer_Brown_Entry_Plan_2026-10-01.pdf](Mayer_Brown_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Stuart Galvin directly (move him out of INTL) |
 | Customer | McKay Brothers | 57995500573 | [McKay_Brothers_Entry_Plan_2026-10-01.pdf](McKay_Brothers_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email David Trocki (Global Head of Network Operations) |
 | Customer | memQ | 58004729246 | [memQ_Entry_Plan_2026-10-01.pdf](memQ_Entry_Plan_2026-10-01.pdf) | Fri Oct 9: find the founders on LinkedIn |
-| Customer | Miami International Holdings (MIAX) | 58002437946 | [MIAX_Entry_Plan_2026-10-01.pdf](MIAX_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Chaz Palmeri (Director, Systems and Network Operations) |
+| Customer | Miami International Holdings (MIAX) | 58002437946 | [MIAX_Entry_Plan_2026-10-01.pdf](MIAX_Entry_Plan_2026-10-01.pdf) | **Customer: no prospecting** |
 | Customer | Modal Labs | 57993087653 | [Modal_Labs_Entry_Plan_2026-10-01.pdf](Modal_Labs_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: find the compute capacity / infrastructure owner |
 | Customer | Molex | 57997203768 | [Molex_Entry_Plan_2026-10-01.pdf](Molex_Entry_Plan_2026-10-01.pdf) | Fri Oct 2: remove supply planners; Mon Oct 5: email Paul Babler (Data Center Manager) |
 | Customer | Nasdaq (Chicago) | 58001352879 | [Nasdaq_Entry_Plan_2026-10-01.pdf](Nasdaq_Entry_Plan_2026-10-01.pdf) | Mon Oct 5: email Albert Soriano (Director, North America Data Centers) |
